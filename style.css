@@ -426,7 +426,7 @@ body._lock {
 
 /*--------------PARALLAX------------*/
 .parallax {
-    background: url("img/parallax.jpg") no-repeat fixed;
+    background: url("parallax.jpg") no-repeat fixed;
     background-size: cover;
     min-height: 40vh;
     display: flex;
