@@ -894,7 +894,7 @@ body._lock {
         padding: 0 15px;
     }
     .contacts-item h2 {
-        font-size: 50px;
+        font-size: 44px;
     }
     .contacts-text {
         font-size: 22px;
@@ -961,7 +961,7 @@ body._lock {
         grid-row-gap: 20px;
     }
     .form .form-title {
-        font-size: 45px;
+        font-size: 44px;
     }
     .form .form-label {
         font-size: 23px;
@@ -1204,6 +1204,7 @@ body._touch .menu-link {
     }
     .intro-text {
         font-size: 55px;
+        margin-bottom: 30px;
     }
     .navbar-item .menu-link {
         font-size: 20px;
