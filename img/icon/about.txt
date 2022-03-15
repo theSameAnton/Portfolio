@@ -1,6 +1,6 @@
 This favicon was generated using the following font:
 
-- Font Title: Open Sans
-- Font Author: Copyright 2020 The Open Sans Project Authors (https://github.com/googlefonts/opensans)
-- Font Source: http://fonts.gstatic.com/s/opensans/v27/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1y4nY1M2xLER.ttf
-- Font License: Apache License, version 2.0 (http://www.apache.org/licenses/LICENSE-2.0.html))
+- Font Title: NTR
+- Font Author: Copyright (c) 2012 Silicon Andhra (fonts.siliconandhra.org). Copyright (c) 2011, Joe Prince, Admix Designs (http://www.admixdesigns.com/) with Reserved Font Name Varela Round.
+- Font Source: http://fonts.gstatic.com/s/ntr/v13/RLpzK5Xy0ZjiGGhs5TA4bg.ttf
+- Font License: SIL Open Font License, 1.1 (http://scripts.sil.org/OFL))
