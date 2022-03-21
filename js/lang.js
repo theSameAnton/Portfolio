@@ -2,7 +2,7 @@
 
 const langArr = {
     "parallax-text" :  {
-        "en": "What's about skills?",
+        "en": "What about skills?",
         "cz": "Co se týká znalosti?",
     },
     "info-text" :  {
@@ -23,11 +23,11 @@ const langArr = {
         "cz": "Kontakty"
     },
     "contacts-h2-2" : {
-        "en": "Connect me!",
+        "en": "Contact me!",
         "cz": "Kontaktujte me!"
     },
     "contacts-text" : {
-        "en": "If you need Front-end developer in your team or for making a new project, so let me know!",
+        "en": "Let me know if you need a frontend developer in your team or someone to make a new project for you!",
         "cz": "Pokud chcete mít Front-end developera do svého týmu, nebo-li vytvořit nový projekt - dejte mi vědět!"
     },
     "contacts-h4" : {
@@ -63,7 +63,7 @@ const langArr = {
         "cz": "Česká Zemědělská Univerzita (ČZU)"
     },
     "info-p-3" : {
-        "en": "Study program: Informatics",
+        "en": "Major: Informatics",
         "cz": "Studijní program: Informatika"
     },
     "cv" : {
