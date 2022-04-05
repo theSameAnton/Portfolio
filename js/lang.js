@@ -92,10 +92,10 @@ const langArr = {
     },
     "an-2" : {
         "en": "I'm a Front-end Developer.",
-        "cz": "Delám webového developera."
+        "cz": "Dělám webového developera."
     },
     "an-3" : {
         "en": "And this is my Portfolio Website!",
-        "cz": "Vítám vás na své webové strance!"
+        "cz": "Vítám vás na své webové stránce!"
     },
 }
